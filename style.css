@@ -1,0 +1,22 @@
+header{
+    display: flex;
+    justify-content: end;
+}
+nav{
+    height: 300px;
+    width: 35%;
+    background-color: lightgray;
+    position: fixed;
+    display: flex;
+}
+ul{
+    font-size: 1.5rem;
+    text-decoration: none;
+    list-style: none;
+    line-height: 3rem;
+    display: flex;
+    justify-content: center;
+    flex-direction: column;
+    overflow: hidden;
+    margin-right: 5px;
+}
