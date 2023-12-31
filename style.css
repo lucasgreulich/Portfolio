@@ -1,48 +1,22 @@
 body{
     background-color: black;
-    color: whitesmoke;
+    font-family: 'Bebas Neue', sans-serif;
 }
-header{
-    display: flex;
-    justify-content: end;
-    height: 20rem;
-}
-#nav_bar_toggle{
-    cursor: pointer;
-    height: 300px;
-    width: 10rem;
-    background-color: #f5f5f5;
-    color: black;
+
+#name_box{
     display: flex;
     justify-content: center;
     align-items: center;
     flex-direction: column;
-}
-ul{
-    font-size: 1.5rem;
-    text-decoration: none;
-    list-style: none;
-    line-height: 3rem;
-    display: flex;
-    justify-content: center;
-    flex-direction: column;
-    overflow: hidden;
-    margin-right: 5px;
-}
-#name_box{
     font-size: 5rem;
+    margin-top: 10%;
+    margin-bottom: auto;
+    cursor: pointer;
+    color: #e8e8e8;
 }
-
-#project_sec{
-    display: flex;
-    margin: .5rem;
-    width: 100%;
-    flex-direction: row;
+#name_box h1{
+    margin: 1%;
 }
-.projects{
-    display: flex;
-    height: 5rem;
-    width: 40%;
-    margin: .5rem;
-    background-color: whitesmoke;
+#name_box h3{
+    margin: 1%;
 }

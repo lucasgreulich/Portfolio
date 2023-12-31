@@ -4,5 +4,5 @@ const mouseOver = (element) => {
 };
 
 const mouseOut = (element) => {
-   element.style.color = "#f5f5f5";
+   element.style.color = "#e8e8e8";
 }
