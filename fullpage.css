@@ -1,0 +1,27 @@
+body{
+    background-color: black;
+    font-family: 'Bebas Neue', sans-serif;
+    color: #e8e8e8;
+    font-size: 3rem;
+}
+#about_me{
+    height: 50rem;
+    display: flex;
+    justify-content: center;
+}
+#project_box{
+    height: 50rem;
+    display: flex;
+    justify-content: center;
+
+}
+#skills{
+    height: 25rem;
+    display: flex;
+    justify-content: center;
+}
+footer{
+    height: 5rem;
+    display: flex;
+    justify-content: center;
+}
